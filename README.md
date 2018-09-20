@@ -21,4 +21,4 @@ jupyter notebook
 A local server will be initialised on port `localhost:8888` unless otherwise specified. Open the notebook from the browser and navigate your filesystem to find the notebook of interest.
 
 ## Execute the notebook
-In the notebook, a full clean run can be executed from the `Run` tab in the menu. Otherwise, any one cell may be executed by clicking the play button next to the cell, which will trigger the execution of any of the cells above the selected one as well.
+In the notebook, a full clean run can be executed from the `Kernel` tab in the menu. Otherwise, any one cell may be executed by clicking the play button next to the cell, which will trigger the execution of any of the cells above the selected one as well.
