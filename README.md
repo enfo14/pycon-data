@@ -1,4 +1,5 @@
 # 2018 PyCon UK - Understanding sample bias in specialised surveys
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/omni-digital/pycon-data/master?filepath=2018_PyCon_data_analysis.ipynb)
 
 **A fundamental problem of applying surveys about specialised topics or designed for a particular community is the underlying sample bias. We have designed a simple survey that asks respondents to score a set of web services in several aspects, including the quality of their software, their social and environmental impact, and their efforts in user experience (UX) and customer support. The survey has been applied separately to the developer team at Omni Digital, and to the attendees at *2018 PyCon UK*, which took place between 15/09 and 19/09.**
 
